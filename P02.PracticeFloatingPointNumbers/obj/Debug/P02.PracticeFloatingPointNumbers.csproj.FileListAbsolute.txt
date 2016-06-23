@@ -1,0 +1,5 @@
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P02.PracticeFloatingPointNumbers\bin\Debug\P02.PracticeFloatingPointNumbers.exe.config
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P02.PracticeFloatingPointNumbers\bin\Debug\P02.PracticeFloatingPointNumbers.exe
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P02.PracticeFloatingPointNumbers\bin\Debug\P02.PracticeFloatingPointNumbers.pdb
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P02.PracticeFloatingPointNumbers\obj\Debug\P02.PracticeFloatingPointNumbers.exe
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P02.PracticeFloatingPointNumbers\obj\Debug\P02.PracticeFloatingPointNumbers.pdb

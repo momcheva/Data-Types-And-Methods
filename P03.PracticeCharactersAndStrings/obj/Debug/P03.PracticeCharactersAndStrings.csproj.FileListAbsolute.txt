@@ -1,0 +1,5 @@
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P03.PracticeCharactersAndStrings\bin\Debug\P03.PracticeCharactersAndStrings.exe.config
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P03.PracticeCharactersAndStrings\bin\Debug\P03.PracticeCharactersAndStrings.exe
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P03.PracticeCharactersAndStrings\bin\Debug\P03.PracticeCharactersAndStrings.pdb
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P03.PracticeCharactersAndStrings\obj\Debug\P03.PracticeCharactersAndStrings.exe
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P03.PracticeCharactersAndStrings\obj\Debug\P03.PracticeCharactersAndStrings.pdb

@@ -1,0 +1,5 @@
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P01.PracticeIntegerNumbers\bin\Debug\P01.PracticeIntegerNumbers.exe.config
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P01.PracticeIntegerNumbers\bin\Debug\P01.PracticeIntegerNumbers.exe
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P01.PracticeIntegerNumbers\bin\Debug\P01.PracticeIntegerNumbers.pdb
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P01.PracticeIntegerNumbers\obj\Debug\P01.PracticeIntegerNumbers.exe
+E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P01.PracticeIntegerNumbers\obj\Debug\P01.PracticeIntegerNumbers.pdb
