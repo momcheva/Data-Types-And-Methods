@@ -1,6 +1,0 @@
-E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P04.VeriablesInHexFormat\bin\Debug\P04.VeriablesInHexFormat.exe.config
-E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P04.VeriablesInHexFormat\bin\Debug\P04.VeriablesInHexFormat.exe
-E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P04.VeriablesInHexFormat\bin\Debug\P04.VeriablesInHexFormat.pdb
-E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P04.VeriablesInHexFormat\obj\Debug\P04.VeriablesInHexFormat.csprojResolveAssemblyReference.cache
-E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P04.VeriablesInHexFormat\obj\Debug\P04.VeriablesInHexFormat.exe
-E:\TechModule\DataTypesAndMethods - Exercises\Data Types And Methods - Exercises\P04.VeriablesInHexFormat\obj\Debug\P04.VeriablesInHexFormat.pdb
